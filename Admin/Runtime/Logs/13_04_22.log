@@ -1,0 +1,131 @@
+[ 2013-04-22T16:21:50+08:00 ] /admin.php | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:21:50+08:00 ] /admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000776s ]
+[ 2013-04-22T16:21:50+08:00 ] /admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000937s ]
+[ 2013-04-22T16:25:05+08:00 ] /admin.php/Index/index | ERR: (ThinkException) 模板不存在[./Admin/Tpl/Index/index.html]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003280s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003461s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000656s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000789s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000685s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000904s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012799s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012949s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000488s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000699s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000308s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000965s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002827s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000577s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000732s ]
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/js/jquery-1.7.2.min.js | ERR: (ThinkException) 非法操作js
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/js/index.js | ERR: (ThinkException) 非法操作js
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/css/public.css | ERR: (ThinkException) 非法操作css
+[ 2013-04-22T16:25:59+08:00 ] /admin.php/Index/css/index.css | ERR: (ThinkException) 非法操作css
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.000990s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001163s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000728s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000863s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000599s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000739s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019322s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019479s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000541s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000767s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000371s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000773s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002885s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.003240s ]
+[ 2013-04-22T16:27:08+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.003443s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.004038s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004340s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000701s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000834s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000568s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000715s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022089s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022251s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000610s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000707s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000313s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000766s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002770s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000519s ]
+[ 2013-04-22T16:29:27+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000680s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.000820s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.000976s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000643s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000773s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000494s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000645s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.008110s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008274s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000492s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000523s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000316s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000784s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002474s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000452s ]
+[ 2013-04-22T16:29:42+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000588s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.000882s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001053s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000969s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001124s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000556s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000692s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.008533s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008688s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000656s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000663s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000340s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000791s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002830s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000597s ]
+[ 2013-04-22T16:30:48+08:00 ] /admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000727s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ app_begin ] --START--
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004531s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004740s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_template ] --START--
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000797s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001013s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_parse ] --START--
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run ParseTemplate Behavior [ RunTime:0.008766s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008937s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_filter ] --START--
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run ContentReplace Behavior [ RunTime:0.000513s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run TokenBuild Behavior [ RunTime:0.000598s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000305s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000754s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002538s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_end ] --START--
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000560s ]
+[ 2013-04-22T16:33:00+08:00 ] /admin.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.000691s ]
